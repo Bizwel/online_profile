@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/online_profile/static/css/main.727835f4.css",
+    "main.js": "/online_profile/static/js/main.3a4d047b.js",
+    "static/media/portfolio-6.png": "/online_profile/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/online_profile/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/online_profile/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/online_profile/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/online_profile/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/online_profile/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/ID2-removebg-preview (1).png": "/online_profile/static/media/ID2-removebg-preview (1).688ac22e6d60bbc5324c.png",
+    "static/media/logo3.png": "/online_profile/static/media/logo3.084a9174b8bad34003ae.png",
+    "static/media/victorytravels2.png": "/online_profile/static/media/victorytravels2.d7adaec06c9d4429767e.png",
+    "static/media/facebook.png": "/online_profile/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/online_profile/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/online_profile/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/FlowInsight.png": "/online_profile/static/media/FlowInsight.4c2f77888a7aab77b1c8.png",
+    "static/media/ui-design.png": "/online_profile/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/Airpearl.png": "/online_profile/static/media/Airpearl.ef4f46973b79a15cc242.png",
+    "static/media/instagram.png": "/online_profile/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/online_profile/index.html",
+    "main.727835f4.css.map": "/online_profile/static/css/main.727835f4.css.map",
+    "main.3a4d047b.js.map": "/online_profile/static/js/main.3a4d047b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.727835f4.css",
+    "static/js/main.3a4d047b.js"
+  ]
+}
